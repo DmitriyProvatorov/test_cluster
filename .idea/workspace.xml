@@ -49,8 +49,6 @@
       <change beforePath="$PROJECT_DIR$/node/workers/controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/node/workers/controller.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node/workers/values.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node/workers/worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/node/workers/worker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react_client/test-rtc/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/react_client/test-rtc/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react_client/test-rtc/src/Worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/react_client/test-rtc/src/Worker.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +63,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/node" />
   </component>
   <component name="ProjectId" id="1iGdZfxyJm20XQfZb0jubECzk1O" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -95,7 +93,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601537920199</updated>
-      <workItem from="1601537921409" duration="1839000" />
+      <workItem from="1601537921409" duration="2244000" />
     </task>
     <servers />
   </component>
