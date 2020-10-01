@@ -1,0 +1,7 @@
+Запуск;
+ Сервер
+  из папки node
+  npm install
+   node index.js
+   На сервере необходимо установить redis прежде всего https://redis.io/topics/quickstart
+Клиент: /testRtc/react/test-rtc$ npm start
