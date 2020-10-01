@@ -1,6 +1,6 @@
 Запуск;
  Сервер
-  из папки node
+  из папки node_server
   npm install
    node index.js
    На сервере необходимо установить redis прежде всего https://redis.io/topics/quickstart
