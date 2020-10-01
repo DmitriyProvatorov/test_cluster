@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c444126c-b860-4120-9acf-cb52463dd7aa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node" beforeDir="false" afterPath="$PROJECT_DIR$/node" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node/Read.me" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node/node_modules/denque/LICENSE" beforeDir="false" />
@@ -46,32 +46,21 @@
       <change beforePath="$PROJECT_DIR$/node/node_modules/redis/lib/utils.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node/node_modules/redis/package.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node/workers/controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/node/workers/controller.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node/workers/values.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node/workers/worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/node/workers/worker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react/test-rtc/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/react_client/test-rtc/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react/test-rtc/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/react_client/test-rtc/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react/test-rtc/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/react_client/test-rtc/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react/test-rtc/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/react_client/test-rtc/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react/test-rtc/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/react_client/test-rtc/public/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react/test-rtc/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/react_client/test-rtc/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react/test-rtc/public/logo192.png" beforeDir="false" afterPath="$PROJECT_DIR$/react_client/test-rtc/public/logo192.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react/test-rtc/public/logo512.png" beforeDir="false" afterPath="$PROJECT_DIR$/react_client/test-rtc/public/logo512.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react/test-rtc/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/react_client/test-rtc/public/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react/test-rtc/public/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/react_client/test-rtc/public/robots.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react/test-rtc/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/react_client/test-rtc/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react/test-rtc/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/react_client/test-rtc/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react/test-rtc/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/react_client/test-rtc/src/App.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react/test-rtc/src/Worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/react_client/test-rtc/src/Worker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react/test-rtc/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/react_client/test-rtc/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react/test-rtc/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/react_client/test-rtc/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react/test-rtc/src/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/react_client/test-rtc/src/logo.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react/test-rtc/src/serviceWorker.js" beforeDir="false" afterPath="$PROJECT_DIR$/react_client/test-rtc/src/serviceWorker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react/test-rtc/src/setupTests.js" beforeDir="false" afterPath="$PROJECT_DIR$/react_client/test-rtc/src/setupTests.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/node" />
@@ -98,7 +87,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601537920199</updated>
-      <workItem from="1601537921409" duration="375000" />
+      <workItem from="1601537921409" duration="1669000" />
     </task>
     <servers />
   </component>
