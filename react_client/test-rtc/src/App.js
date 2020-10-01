@@ -10,7 +10,7 @@ class App extends Component {
       count: 0
     };
     socket.on('information', (msg)=>{
-      console.log(msg)
+
       try {
         let _workers = JSON.parse(msg);
         let _arr = [];
