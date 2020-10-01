@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c444126c-b860-4120-9acf-cb52463dd7aa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node" beforeDir="false" afterPath="$PROJECT_DIR$/node" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node/Read.me" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node/node_modules/denque/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node/node_modules/denque/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node/node_modules/denque/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node/node_modules/denque/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node/node_modules/denque/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node/node_modules/redis-commands/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node/node_modules/redis-commands/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node/node_modules/redis-commands/changelog.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node/node_modules/redis-commands/commands.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node/node_modules/redis-commands/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node/node_modules/redis-commands/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node/node_modules/redis-commands/tools/build.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node/node_modules/redis-errors/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node/node_modules/redis-errors/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node/node_modules/redis-errors/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node/node_modules/redis-errors/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node/node_modules/redis-errors/lib/modern.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node/node_modules/redis-errors/lib/old.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node/node_modules/redis-errors/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node/node_modules/redis-parser/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node/node_modules/redis-parser/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node/node_modules/redis-parser/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node/node_modules/redis-parser/changelog.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node/node_modules/redis-parser/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node/node_modules/redis-parser/lib/parser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node/node_modules/redis-parser/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node/node_modules/redis/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node/node_modules/redis/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node/node_modules/redis/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node/node_modules/redis/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node/node_modules/redis/lib/command.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node/node_modules/redis/lib/commands.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node/node_modules/redis/lib/createClient.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node/node_modules/redis/lib/customErrors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node/node_modules/redis/lib/debug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node/node_modules/redis/lib/extendedApi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node/node_modules/redis/lib/individualCommands.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node/node_modules/redis/lib/multi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node/node_modules/redis/lib/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node/node_modules/redis/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node/workers/values.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node/workers/worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/node/workers/worker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/test-rtc/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/react_client/test-rtc/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/test-rtc/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/react_client/test-rtc/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/test-rtc/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/react_client/test-rtc/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/test-rtc/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/react_client/test-rtc/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/test-rtc/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/react_client/test-rtc/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/test-rtc/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/react_client/test-rtc/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/test-rtc/public/logo192.png" beforeDir="false" afterPath="$PROJECT_DIR$/react_client/test-rtc/public/logo192.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/test-rtc/public/logo512.png" beforeDir="false" afterPath="$PROJECT_DIR$/react_client/test-rtc/public/logo512.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/test-rtc/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/react_client/test-rtc/public/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/test-rtc/public/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/react_client/test-rtc/public/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/test-rtc/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/react_client/test-rtc/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/test-rtc/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/react_client/test-rtc/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/test-rtc/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/react_client/test-rtc/src/App.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/test-rtc/src/Worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/react_client/test-rtc/src/Worker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/test-rtc/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/react_client/test-rtc/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/test-rtc/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/react_client/test-rtc/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/test-rtc/src/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/react_client/test-rtc/src/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/test-rtc/src/serviceWorker.js" beforeDir="false" afterPath="$PROJECT_DIR$/react_client/test-rtc/src/serviceWorker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/test-rtc/src/setupTests.js" beforeDir="false" afterPath="$PROJECT_DIR$/react_client/test-rtc/src/setupTests.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/node" />
+  </component>
+  <component name="ProjectId" id="1iGdZfxyJm20XQfZb0jubECzk1O" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c444126c-b860-4120-9acf-cb52463dd7aa" name="Default Changelist" comment="" />
+      <created>1601537920199</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601537920199</updated>
+      <workItem from="1601537921409" duration="375000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
